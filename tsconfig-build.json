@@ -1,0 +1,7 @@
+{
+	"compilerOptions": {
+		"rootDir": "HATS_PATHS_TS_BUILD_ROOT_DIR_PATH"
+	},
+	"exclude": HATS_PATHS_TS_BUILD_EXLUDE_PATHS,
+	"extends": "./tsconfig.json"
+}
